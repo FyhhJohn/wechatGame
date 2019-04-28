@@ -1,0 +1,94 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "madera",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "madera",
+      "_level": 1,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 1
+          },
+          "_spriteFrame": {
+            "__uuid__": "f8EfPYloNPUbmUM1VOVMef"
+          }
+        },
+        {
+          "__type__": "cc.RigidBody",
+          "node": {
+            "__id__": 1
+          },
+          "_type": 0
+        },
+        {
+          "__type__": "cc.PhysicsBoxCollider",
+          "node": {
+            "__id__": 1
+          },
+          "_restitution": 0.9,
+          "_size": {
+            "__type__": "cc.Size",
+            "width": 50,
+            "height": 50
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "dbeAV4P6BDTLwSt9IBiy/Z"
+        },
+        "fileId": "e9qo0brYFKUKGTLGZvTEE5"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 50,
+        "height": 50
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "madera-sheet0",
+      "texture": "2eaPWKi1BAxZkyetmdQPMk",
+      "rect": [
+        0,
+        0,
+        50,
+        50
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        50,
+        50
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

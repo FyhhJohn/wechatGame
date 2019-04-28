@@ -1,0 +1,174 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "levelNode_3",
+  "json": [
+    {
+      "name": "ball",
+      "x": -301,
+      "y": 175.94346666666672,
+      "scaleX": 1.5,
+      "scaleY": 1.5,
+      "angle": 0
+    },
+    {
+      "name": "door",
+      "x": -18,
+      "y": -214,
+      "scaleX": -1.2,
+      "scaleY": 1.2,
+      "angle": 0
+    },
+    {
+      "name": "road1",
+      "x": -258,
+      "y": -17,
+      "scaleX": 1,
+      "scaleY": 1,
+      "angle": -40
+    },
+    {
+      "name": "square",
+      "x": -299,
+      "y": 127,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "star",
+      "x": 129,
+      "y": -227,
+      "scaleX": 1.3727559999999357,
+      "scaleY": 1.3727559999999357,
+      "angle": -16
+    },
+    {
+      "name": "triangle",
+      "x": 256,
+      "y": -185,
+      "scaleX": -1,
+      "scaleY": 1,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -140,
+      "y": -112,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -91,
+      "y": -112,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -41.799999999999955,
+      "y": -112,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": 7.100000000000023,
+      "y": -112,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": 55.60000000000002,
+      "y": -112,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": 105,
+      "y": -62,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": 154,
+      "y": -62,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": 203,
+      "y": -62,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": 252,
+      "y": -62,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": 301,
+      "y": -62,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": 301,
+      "y": -13.100000000000023,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "triangle",
+      "x": 56,
+      "y": -64,
+      "scaleX": -1,
+      "scaleY": 1,
+      "angle": 0
+    },
+    {
+      "name": "star",
+      "x": -71,
+      "y": -40,
+      "scaleX": 1.3727559999999357,
+      "scaleY": 1.3727559999999357,
+      "angle": -16
+    },
+    {
+      "name": "star",
+      "x": 222,
+      "y": -3,
+      "scaleX": 1.3727559999999357,
+      "scaleY": 1.3727559999999357,
+      "angle": -16
+    },
+    {
+      "name": "square",
+      "x": 257,
+      "y": -233,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    }
+  ]
+}

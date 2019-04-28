@@ -1,0 +1,168 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "levelNode_14",
+  "json": [
+    {
+      "name": "ball",
+      "x": -372.9,
+      "y": 99.7559115285519,
+      "scaleX": 1.5,
+      "scaleY": 1.5,
+      "angle": 0
+    },
+    {
+      "name": "boom",
+      "x": 290.79999999999995,
+      "y": 98.25599139631674,
+      "scaleX": 0.5,
+      "scaleY": 0.5,
+      "angle": 0,
+      "boomValue": 400
+    },
+    {
+      "name": "door",
+      "x": 340,
+      "y": -214,
+      "scaleX": 1.2,
+      "scaleY": 1.2,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -370.9,
+      "y": 51,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "star",
+      "x": 89,
+      "y": -228,
+      "scaleX": 1.357503999999608,
+      "scaleY": 1.357503999999608,
+      "angle": -16
+    },
+    {
+      "name": "triangle",
+      "x": -372.9,
+      "y": -54,
+      "scaleX": 1,
+      "scaleY": 1,
+      "angle": 0
+    },
+    {
+      "name": "road1",
+      "x": 281,
+      "y": -91,
+      "scaleX": 1,
+      "scaleY": 1,
+      "angle": 0
+    },
+    {
+      "name": "road1",
+      "x": 88.60000000000002,
+      "y": -91,
+      "scaleX": 1,
+      "scaleY": 1,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": 291,
+      "y": 47,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -32.5,
+      "y": -102.5,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -81.5,
+      "y": -102.5,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -130.5,
+      "y": -102.5,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -179.49,
+      "y": -102.5,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -228.39999999999998,
+      "y": -102.5,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -277.36,
+      "y": -102.5,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -326.29,
+      "y": -102.5,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -375.3,
+      "y": -102.5,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "star",
+      "x": -212,
+      "y": -42,
+      "scaleX": 1.357503999999608,
+      "scaleY": 1.357503999999608,
+      "angle": -16
+    },
+    {
+      "name": "star",
+      "x": 169,
+      "y": -41,
+      "scaleX": 1.357503999999608,
+      "scaleY": 1.357503999999608,
+      "angle": -16
+    },
+    {
+      "name": "boom",
+      "x": -207,
+      "y": -240.08888888888885,
+      "scaleX": 0.5,
+      "scaleY": 0.5,
+      "angle": 0,
+      "boomValue": 400
+    }
+  ]
+}

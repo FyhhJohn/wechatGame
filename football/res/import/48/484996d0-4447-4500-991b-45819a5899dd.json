@@ -1,0 +1,147 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "levelNode_10",
+  "json": [
+    {
+      "name": "ball",
+      "x": -86.21358730184852,
+      "y": -67.24400000002802,
+      "scaleX": 1.5,
+      "scaleY": 1.5,
+      "angle": -1.887850210324237
+    },
+    {
+      "name": "door",
+      "x": 230.89999999999998,
+      "y": -214,
+      "scaleX": 1.2,
+      "scaleY": 1.2,
+      "angle": 0
+    },
+    {
+      "name": "star",
+      "x": 89,
+      "y": -228,
+      "scaleX": 1.0145400000008522,
+      "scaleY": 1.0145400000008522,
+      "angle": -16
+    },
+    {
+      "name": "triangle",
+      "x": 79,
+      "y": -67,
+      "scaleX": -1,
+      "scaleY": 1,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -165,
+      "y": -116,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -116,
+      "y": -116,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -18,
+      "y": -116,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -67,
+      "y": -116,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": 31,
+      "y": -116,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -165,
+      "y": 31,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "boom",
+      "x": -165,
+      "y": 82.25598056434137,
+      "scaleX": 0.5,
+      "scaleY": 0.5,
+      "angle": 0,
+      "boomValue": 200
+    },
+    {
+      "name": "spring",
+      "x": -464,
+      "y": -228,
+      "scaleX": 0.6,
+      "scaleY": 0.6,
+      "angle": -89.99999999999999,
+      "forceValue": 700
+    },
+    {
+      "name": "square",
+      "x": -489,
+      "y": -242,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -489,
+      "y": -193,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "star",
+      "x": -263,
+      "y": -100,
+      "scaleX": 1.0145400000008522,
+      "scaleY": 1.0145400000008522,
+      "angle": -16,
+      "dir": 2,
+      "moveDis": 70,
+      "moveTime": 0.5
+    },
+    {
+      "name": "star",
+      "x": 20.9,
+      "y": -61.8,
+      "scaleX": 1.0145400000008522,
+      "scaleY": 1.0145400000008522,
+      "angle": -16
+    },
+    {
+      "name": "square",
+      "x": 80,
+      "y": -116,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    }
+  ]
+}

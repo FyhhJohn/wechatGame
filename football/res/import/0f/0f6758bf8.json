@@ -1,0 +1,93 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pasto3-sheet0",
+      "texture": "47KtS3d/dKe4aCKcPI4nwl",
+      "rect": [
+        0,
+        0,
+        83,
+        26
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        83,
+        26
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "road3",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "road3",
+      "_level": 1,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 1
+          },
+          "_spriteFrame": {
+            "__uuid__": "89zwCUNP5Nr4FahlNgn3i7"
+          }
+        },
+        {
+          "__type__": "cc.RigidBody",
+          "node": {
+            "__id__": 1
+          },
+          "_type": 0
+        },
+        {
+          "__type__": "cc.PhysicsBoxCollider",
+          "node": {
+            "__id__": 1
+          },
+          "_size": {
+            "__type__": "cc.Size",
+            "width": 83,
+            "height": 26
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "db96+nt/5Ayrdw8S43dJhS"
+        },
+        "fileId": "c4h1dleaxK7qw10mRb2IkR"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 83,
+        "height": 26
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ]
+]

@@ -1,0 +1,129 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "levelNode_2",
+  "json": [
+    {
+      "name": "ball",
+      "x": 180,
+      "y": 148.69999999999993,
+      "scaleX": 1.5,
+      "scaleY": 1.5,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": 182,
+      "y": 99.69999999999999,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "triangle",
+      "x": -162,
+      "y": -241,
+      "scaleX": 1,
+      "scaleY": 1,
+      "angle": 0
+    },
+    {
+      "name": "door",
+      "x": 230.89999999999998,
+      "y": -214,
+      "scaleX": 1.2,
+      "scaleY": 1.2,
+      "angle": 0
+    },
+    {
+      "name": "star",
+      "x": 185.1,
+      "y": 16.1,
+      "scaleX": 1.1061719999997877,
+      "scaleY": 1.1061719999997877,
+      "angle": -16,
+      "dir": 1,
+      "moveDis": 90,
+      "moveTime": 0.5
+    },
+    {
+      "name": "star",
+      "x": 3,
+      "y": -51,
+      "scaleX": 1.1061719999997877,
+      "scaleY": 1.1061719999997877,
+      "angle": -16
+    },
+    {
+      "name": "star",
+      "x": 55,
+      "y": -228,
+      "scaleX": 1.1061719999997877,
+      "scaleY": 1.1061719999997877,
+      "angle": -16
+    },
+    {
+      "name": "square",
+      "x": 182,
+      "y": -104,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "triangle",
+      "x": 182,
+      "y": -55,
+      "scaleX": -1,
+      "scaleY": 1,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": 133,
+      "y": -104,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": 84,
+      "y": -104,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": 35,
+      "y": -104,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -14,
+      "y": -104,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -63,
+      "y": -104,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    },
+    {
+      "name": "square",
+      "x": -63,
+      "y": -55,
+      "scaleX": 1.4,
+      "scaleY": 1.4,
+      "angle": 0
+    }
+  ]
+}
